@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+*.key
+*.pem
+*.p12
+*.pfx
+.github/workflows/*.yml.tmp
+project.zip
